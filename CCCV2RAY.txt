@@ -3,14 +3,14 @@
     "outboundTag": "proxy",
     "domain": [
       "bing.com",
-	"bingapis.com",
-	"clarity.ms",
-	"nat.dev",
-	"openai.com",
-	"geosite:openai",
-	"geosite:bing",
-	"slack.com",
-	"anthropic.com"
+      "bingapis.com",
+      "clarity.ms",
+      "nat.dev",
+      "openai.com",
+      "geosite:openai",
+      "geosite:bing",
+      "slack.com",
+      "anthropic.com"
     ]
   },
   {
@@ -18,8 +18,8 @@
     "outboundTag": "block",
     "domain": [
       "geosite:category-ads-all",
-	"slickdealscdn.com",
-	"dealctr.com"
+      "slickdealscdn.com",
+      "dealctr.com"
     ]
   },
   {
@@ -27,11 +27,15 @@
     "outboundTag": "direct",
     "domain": [
       "geosite:category-games@cn",
-	"geosite:microsoft",
-	"geosite:steam",
-	"ice.com",
-	"theice.com",
-	"thomsonreuters.com"
+      "geosite:cn",
+      "geosite:microsoft",
+      "ice.com",
+      "theice.com",
+      "thomsonreuters.com"
+    ]
+    "ip": [
+      "geoip:private",
+      "geoip:cn"
     ]
   },
   {
