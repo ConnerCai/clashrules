@@ -1,0 +1,44 @@
+microsoft.com,
+microsoftonline.com,
+live.com,
+office.net,
+office.com,
+office365.comoutlook.com,
+gvsi.com,
+marketview.com,
+1windows.com,
+icis.com,
+taltrade.com,
+battle.net,
+ineosgroup-my.sharepoint.com,
+sharepoint.com,
+msedge.net,
+uss.lenovomm.com,
+lenovomm.com,
+ice.com,
+jin10.com,
+outlook.office365.com,
+teams.cdn.office.net,
+login.microsoftonline.com,
+roaming.officeapps.live.com,
+dbankcloud.com,
+steampowered.com,
+ineos.com,
+outlook.com
+
+freewhale ssr
+https://sub.qiduo.eu.org/link/oB3LLTSCuk7tzr0y?mu=1
+
+freewhale v2ray
+https://api.qiduo.eu.org/link/oB3LLTSCuk7tzr0y?sub=3
+
+okokcloud ssr
+https://okokcloud.cloud/api/v1/client/subscribe?token=7e52eb04dd66b20d01ceb5fd9e399815
+
+
+  - url: https://api.tsutsu.one/sub?target=clash&url=https%3A%2F%2Fsub.qiduo.eu.org%2Flink%2FoB3LLTSCuk7tzr0y%3Fmu%3D1&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_AdblockPlus.ini&filename=Freewhale%20SSR&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
+    yaml:
+      prepend-rules:
+        - DOMAIN-SUFFIX,ice.com,DIRECT
+        - DOMAIN-SUFFIX,btdx8.com,♻️ 自动选择
+        - DOMAIN-SUFFIX,marketview.com,DIRECT
